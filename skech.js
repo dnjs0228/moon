@@ -4,7 +4,6 @@ var y = 0;
 function setup() {
   
   
-  
   bg = loadImage("space.png");
   img = loadImage("earth.png");
   img2 = loadImage("moon.png");
